@@ -1,6 +1,6 @@
 #!/bin/sh
 yes | sudo pacman -S appimagelauncher
-cd ~/Downloads/ && chmod +x Minecraft.appimage
+chmod +x ~/Downloads/Minecraft.appimage
 ./Minecraft.appimage 
 
 
