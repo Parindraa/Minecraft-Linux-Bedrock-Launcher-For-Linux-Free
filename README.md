@@ -7,15 +7,19 @@ Dependencies
 git
 
 If you don't have that then do the following command:
+
 sudo pacman -S git
 
 Open the terminal and then Clone The Repository:
+
 cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-For-Free.git
 
 Then you have to cd to the folder:
+
 cd Minecraft-Bedrock-Linux-Free
 
 And then make the install script executable and run:
+
 chmod +x install.sh && ./install.sh
 
 Once its done, it will automatically run the appimage 
@@ -29,6 +33,7 @@ Once you close it, open the terminal and then enter this command to install the 
 cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 
 Then start the minecraft launcher and then click the pen button on the bottom left of the screen
-And then select the minecraft versions, click x86 Installed
+And then select the minecraft versions, click x86 Installed. Then you can run the game.
+(Seems like there is a problem at the login screen, I don't see mcpelauncher-webview in .local/share)
 
 This was made by a 10 year old getting ready for school
