@@ -1,9 +1,8 @@
 #!/bin/sh
 yes | sudo pacman -S appimagelauncher
 
-chmod +x ~/Downloads/Minecraft.AppImage 
+cp ~/Downloads/Minecraft.appimage ~/Minecraft-Bedrock-Launcher-Linux-For-Free/
 
-~/Downloads/Minecraft.AppImage 
-
+./Minecraft.appimage
 
 
