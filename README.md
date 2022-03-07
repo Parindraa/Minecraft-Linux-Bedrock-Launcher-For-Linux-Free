@@ -16,7 +16,7 @@ cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-
 
 Then you have to cd to the folder:
 
-cd Minecraft-Bedrock-Linux-Free
+cd Minecraft-Bedrock-Launcher-Linux-For-Free 
 
 And then make the install script executable and run:
 
