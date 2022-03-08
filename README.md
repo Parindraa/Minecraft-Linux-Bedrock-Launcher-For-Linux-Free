@@ -34,6 +34,6 @@ cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 
 Then start the minecraft launcher and then click the pen button on the bottom left of the screen
 And then select the minecraft versions, click x86 Installed. Then you can run the game.
-(Seems like there is a problem at the login screen, I don't see mcpelauncher-webview in .local/share)
+(Seems like there is a problem at the login screen, I don't see mcpelauncher-webview in .local/share. Maybe it's just a arch linux bug)
 
 This was made by a 10 year old getting ready for school
