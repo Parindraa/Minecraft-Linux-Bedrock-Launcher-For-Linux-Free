@@ -1,6 +1,6 @@
 Credits to TheSonicMaster for the modified launcher appimage, and the minecraft version.
-So if you want to get Minecraft Bedrock for free on Linux (Note that this is only for Arch, I might make one for Debian too). You have to download the 2 files in google drive, one for the app image and one for the mineraft version.
-https://drive.google.com/drive/folders/1LZWdGLNLFhV4L8Fmwg0uxBGxTUj85fz7 Make sure you save the files to Downloads.
+So if you want to get Minecraft Bedrock for free on Linux (Note that this is only for Arch, I might make one for Debian too). You have to download the 2 files in the releases, one for the app image and one for the mineraft version.
+ Make sure you save the files to Downloads.
 
 Dependencies
 
@@ -35,5 +35,3 @@ cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 Then start the minecraft launcher and then click the pen button on the bottom left of the screen
 And then select the minecraft versions, click x86 Installed. Then you can run the game.
 (Seems like there is a problem at the login screen, I don't see mcpelauncher-webview in .local/share. Maybe it's just a arch linux bug)
-
-This was made by a 10 year old getting ready for school
