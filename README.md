@@ -3,6 +3,7 @@ So if you want to get Minecraft Bedrock for free on Linux. You have to download 
  Make sure you save the files to Downloads.
 
 Arch Linux
+	
 	sudo pacman -S git
 
 	cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-For-Free.git
