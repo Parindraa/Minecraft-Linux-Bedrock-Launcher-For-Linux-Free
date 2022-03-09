@@ -44,3 +44,5 @@ Then start the minecraft launcher and then click the pen button on the bottom le
 And then select the minecraft versions, click x86 Installed. Then you can run the game.
 
 If there is any bugs report one to me. I'll fix it.
+
+Literally made on a chromebook running Manjaro Gnome.
