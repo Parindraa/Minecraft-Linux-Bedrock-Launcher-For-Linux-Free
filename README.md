@@ -10,7 +10,7 @@ ARCH LINUX
 
 	cd Minecraft-Bedrock-Launcher-Linux-For-Free 
 
-	chmod +x install.sh && ./install.sh
+	chmod +x archinstall.sh && ./archinstall.sh
 
 Press next and then click integrate and run.
 
@@ -32,7 +32,7 @@ DEBIAN / UBUNTU
 
 	cd Minecraft-Bedrock-Launcher-Linux-For-Free 
 	
-	chmod +x install.sh && ./install.sh
+	chmod +x debinstall.sh && ./debinstall.sh
 
 Press next and then click integrate and run.
 
