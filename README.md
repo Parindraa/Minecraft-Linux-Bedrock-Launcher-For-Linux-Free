@@ -14,7 +14,7 @@ Arch Linux
 
 Press next and then click integrate and run.
 
-You are not done yet, you have to sign in to your google account and then close it. Open up the terminal and enter the following command.
+You are not done yet, you have to sign in to your google account and then close the launcher. Open up the terminal and enter the following command.
 
 	cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 
