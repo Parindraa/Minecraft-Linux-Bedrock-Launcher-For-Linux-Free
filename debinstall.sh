@@ -7,8 +7,6 @@ sudo apt-get install appimagelauncher -y
 
 chmod +x ~/Downloads/Minecraft.AppImage
 
-cp ~/Downloads/Minecraft.AppImage ~/Minecraft-Bedrock-Launcher-Linux-For-Free/
-
-./Minecraft-Bedrock-Launcher-Linux-For-Free/Minecraft.AppImage
+cd ~/Downloads/ && ./Minecraft.AppImage
 
 
