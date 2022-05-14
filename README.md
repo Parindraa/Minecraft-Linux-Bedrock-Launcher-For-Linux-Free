@@ -26,13 +26,8 @@ And then select the minecraft versions, click x86 Installed. Then you can run th
 
 Debian or Ubuntu
 
-	sudo apt-get install git -y
+	sudo apt-get install git -y && cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-For-Free.git && cd Minecraft-Bedrock-Launcher-Linux-For-Free && chmod +x debinstall.sh && ./debinstall.sh
 
-	cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-For-Free.git
-
-	cd Minecraft-Bedrock-Launcher-Linux-For-Free 
-	
-	chmod +x debinstall.sh && ./debinstall.sh
 
 Press next and then click integrate and run.
 
