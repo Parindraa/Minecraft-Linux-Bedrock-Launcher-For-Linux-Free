@@ -32,6 +32,8 @@ You are not done yet, you have to sign in to your google account and then close 
 
         cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 
+Press next and then click integrate and run.
+
 Then start the minecraft launcher and then click the pen button on the bottom left of the screen
 And then select the minecraft versions, click x86 Installed. Then you can run the game.
 
