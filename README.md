@@ -6,7 +6,7 @@ Arch Linux
 	
 	sudo pacman -S git
 
-	cd ~ && git clone https://github.com/FemBoysAreCute/Minecraft-Bedrock-Launcher-Linux-For-Free.git
+	cd ~ && git clone https://github.com/FemBoysAreCute/Minecraft-Linux-Bedrock-Launcher-For-Linux-Free.git
 
 	cd Minecraft-Bedrock-Launcher-Linux-For-Free 
 
