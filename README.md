@@ -1,14 +1,16 @@
-Credits to TheSonicMaster for the modified launcher appimage, and the minecraft version.
-So if you want to get Minecraft Bedrock for free on Linux. You have to download the 2 files in the releases, one for the app image and one for the mineraft version.
- Make sure you save the files to Downloads.
+# Minecraft for Linux
+
+Credits to TheSonicMaster for the modified launcher appimage, and the Minecraft version.
+So if you want to get Minecraft Bedrock for free on Linux. You have to download the 2 files in the releases, one for the app image and one for the Minecraft version.
+Make sure you save the files to Downloads.
 
 Arch Linux
 	
 	sudo pacman -S git
 
-	cd ~ && git clone https://github.com/FemBoysAreCute/Minecraft-Linux-Bedrock-Launcher-For-Linux-Free.git
+	cd ~ && git clone https://github.com/Parindraa/Minecraft-Linux-Bedrock-Launcher-For-Linux-Free.git
 
-	cd Minecraft-Bedrock-Launcher-Linux-For-Free 
+	cd Minecraft-Linux-Bedrock-Launcher-For-Linux-Free 
 
 	chmod +x archinstall.sh && ./archinstall.sh
 
