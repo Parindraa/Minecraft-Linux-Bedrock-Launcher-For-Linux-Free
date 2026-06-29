@@ -1,4 +1,4 @@
-# Minecraft for Linux
+# Minecraft for Linux (UNFORTUNATELY DEPRECATED)
 
 Credits to TheSonicMaster for the modified launcher appimage, and the Minecraft version.
 So if you want to get Minecraft Bedrock for free on Linux. You have to download the 2 files in the releases, one for the app image and one for the Minecraft version.
